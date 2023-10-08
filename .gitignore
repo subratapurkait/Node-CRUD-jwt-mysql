@@ -1,0 +1,5 @@
+node_modules
+.env
+vscode-profile-2022-06-09-01-03-08.heapsnapshot
+package-lock.json
+.vscode
